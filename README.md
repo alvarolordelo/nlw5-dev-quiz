@@ -14,7 +14,8 @@
 ---
 
 <h2 align="center">Tópicos 📋</h2>
-![alt text](https://drive.google.com/drive/folders/1mBkU9jpxLHSYURY3QCQ8TP8xLlOwvzsf)  
+![alt text](https://drive.google.com/drive/folders/1mBkU9jpxLHSYURY3QCQ8TP8xLlOwvzsf)
+![alt text](https://github.com/alvarolordelo/nlw5-dev-quiz/blob/main/1%20-%20NLW%20%2305%20-%201400x900.jpg?raw=true)
 
    <p>
    
