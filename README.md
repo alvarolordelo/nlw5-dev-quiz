@@ -99,7 +99,7 @@
    First of all, correctly configure the Flutter development environment on your machine, see https://flutter.dev/docs/get-started/install
    
    - Clone this repository:
-   $ git clone https://github.com/felipecastrosales/DevQuiz DevQuiz
+   $ git clone https://github.com/alvarolordelo/nlw5-dev-quiz DevQuiz
 
    - Enter in directory:
    $ cd DevQuiz
@@ -133,7 +133,7 @@
 <h2 align="center">Licença 📝</h2>
 
 <p align="center">
-   Este repositório está sob licença MIT. Você pode ver o arquivo <a href="https://github.com/felipecastrosales/DevQuiz/blob/master/LICENSE">LICENSE</a> para mais detalhes. 😉
+   Este repositório está sob licença MIT. Você pode ver o arquivo !--<a href="https://github.com/felipecastrosales/DevQuiz/blob/master/LICENSE">LICENSE</a>--! para mais detalhes. 😉
 </p>
 
    ---
