@@ -133,7 +133,7 @@
 <h2 align="center">Licença 📝</h2>
 
 <p align="center">
-   Este repositório está sob licença MIT. Você pode ver o arquivo !--<a href="https://github.com/felipecastrosales/DevQuiz/blob/master/LICENSE">LICENSE</a>--! para mais detalhes. 😉
+   Este repositório está sob licença MIT. Você pode ver o arquivo  para mais detalhes. 😉
 </p>
 
    ---
