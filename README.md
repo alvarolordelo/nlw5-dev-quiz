@@ -138,13 +138,10 @@
 
    ---
 
-   >Esse projeto foi desenvolvido com ❤️ por **[@Felipe Sales](https://www.linkedin.com/in/felipecastrosales/)**, com o instrutor **[@GabulDev](https://www.linkedin.com/in/gabuldev/)**, na #NextLevelWeek05 da **[Rocketseat](https://rocketseat.com.br/)**.<br>
+   >Esse projeto foi desenvolvido com ❤️ , com o instrutor **[@GabulDev](https://www.linkedin.com/in/gabuldev/)**, na #NextLevelWeek05 da **[Rocketseat](https://rocketseat.com.br/)**.<br>
    Se isso te ajudou, dê uma ⭐, isso vai me ajudar também! 😉
 
 ---
 
    <div align="center">
-
-   [![Linkedin Badge](https://img.shields.io/badge/-Felipe%20Sales-292929?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/felipecastrosales/)](https://www.linkedin.com/in/felipecastrosales/)
-
    </div>
