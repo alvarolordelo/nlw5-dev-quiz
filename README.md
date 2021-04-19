@@ -10,12 +10,11 @@
 - 🔄 Landing 🔥 Aula 04
 - 🔄 Surface Exploration ⚡ Aula 05
 - 🔄 Acelerando sua Carreira 🚀 Aula 06 - encerramento
+![1 - NLW #05 - 1400x900](https://user-images.githubusercontent.com/1663952/115302087-66363080-a138-11eb-878d-4ac5d1688843.jpg)
 
 ---
 
 <h2 align="center">Tópicos 📋</h2>
-![alt text](https://drive.google.com/drive/folders/1mBkU9jpxLHSYURY3QCQ8TP8xLlOwvzsf)
-![alt text](https://github.com/alvarolordelo/nlw5-dev-quiz/blob/main/1%20-%20NLW%20%2305%20-%201400x900.jpg?raw=true)
 
    <p>
    
