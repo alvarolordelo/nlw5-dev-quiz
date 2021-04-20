@@ -10,6 +10,7 @@
 - 🔄 Landing 🔥 Aula 04
 - 🔄 Surface Exploration ⚡ Aula 05
 - 🔄 Acelerando sua Carreira 🚀 Aula 06 - encerramento
+![1 - NLW #05 - 1400x900](https://user-images.githubusercontent.com/1663952/115302087-66363080-a138-11eb-878d-4ac5d1688843.jpg)
 
 ---
 
@@ -133,7 +134,7 @@
 <h2 align="center">Licença 📝</h2>
 
 <p align="center">
-   Este repositório está sob licença MIT. Você pode ver o arquivo !--<a href="https://github.com/felipecastrosales/DevQuiz/blob/master/LICENSE">LICENSE</a>--! para mais detalhes. 😉
+   Este repositório está sob licença MIT. Você pode ver o arquivo  para mais detalhes. 😉
 </p>
 
    ---
